@@ -1,0 +1,3 @@
+headers=wiringPi.h
+compilerOpts.linux=-I/home/denis/Downloads/wiringOP/wiringPi
+linkerOpts.linux=-L/home/denis -lwiringPi
